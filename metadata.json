@@ -1,0 +1,6 @@
+{
+  "name": "落とし物AIチェッカー - 学校向け落とし物一括管理システム",
+  "description": "落とし物ボックスの写真からAIが持ち物を自動検出・分類・一覧表化し、学校の落とし物管理・返却率向上を支援する卒業制作プロトタイプ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
